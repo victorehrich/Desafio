@@ -1,0 +1,35 @@
+.bg-primary{
+    background-image: url("../images/online-3412473.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color:#37c1ce !important;
+}
+.color{
+    background-image: url("../images/online-3412498.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #1b3280;
+}
+.icones{
+    max-width:20%;
+    max-height:20%;
+    width: auto;
+    height: auto;
+}
+.bg-3{
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #23272a;
+}
+.text-white{
+    text-shadow: 2px 2px #000000  
+}
