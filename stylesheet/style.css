@@ -17,8 +17,8 @@
     background-color: #1b3280;
 }
 .icones{
-    max-width:20%;
-    max-height:20%;
+    max-width:30%;
+    max-height:30%;
     width: auto;
     height: auto;
 }
@@ -32,4 +32,11 @@
 }
 .text-white{
     text-shadow: 2px 2px #000000  
+}
+
+.carousel-captionn{
+    text-align: center;
+}
+.bg-4{
+    background-color: teal ;
 }
