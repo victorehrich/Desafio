@@ -7,6 +7,15 @@
     background-size: contain;
     background-color:#37c1ce !important;
 }
+.bg-primary1{
+
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:#37c1ce !important;
+}
 .color{
     background-image: url("../images/online-3412498.jpg");
     height: 100%;
@@ -39,4 +48,11 @@
 }
 .bg-4{
     background-color: teal ;
+}
+.text-black{
+    color: black;
+}
+.carousel-caption{
+    height: 80%;
+    position: absolute;
 }
